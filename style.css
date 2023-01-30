@@ -1,0 +1,49 @@
+h1 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.wrapper{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	flex-direction: column;
+}
+.som label{
+	font-weight: 500;
+	font-size: 20px;
+}
+.euro label {
+	font-weight: 500;
+	font-size: 20px;
+}
+.som input{
+	border-radius: 5px;
+	width: 200px;
+	height: 40px;
+	font-size: 18px;
+	font-weight: 400;
+}
+.euro input {
+	border-radius: 5px;
+	width: 200px;
+	height: 40px;
+	font-size: 18px;
+	font-weight: 400;
+}
+.euro {
+	margin: 20px;
+}
+.usd label {
+	font-weight: 500;
+	font-size: 20px;
+    }
+.usd input {
+	border-radius: 5px;
+	width: 200px;
+	height: 40px;
+	font-size: 18px;
+	font-weight: 400;
+}
+
